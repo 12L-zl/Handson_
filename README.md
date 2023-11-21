@@ -15,6 +15,8 @@ https://github.com/rickiepark/handson-ml2
 - 1주일 간 각자 공부해오며 오프라인에서 공유하고 싶은 것이나, 궁금했던 점을 이야기해보는 시간을 갖습니다.
 <br>
 ![image](https://github.com/12L-zl/Handson_/assets/137811485/44915eff-2bb4-49d3-b4a2-2c083c614f89)
+![image](https://github.com/12L-zl/Handson_/assets/137811485/e5386f64-1bf5-4a4e-abd5-ee15b5053306)
+
 
 <br>
 <br>
